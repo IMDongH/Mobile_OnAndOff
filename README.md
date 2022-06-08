@@ -27,10 +27,7 @@ https://www.youtube.com/watch?v=oF1gIOFgOGc
 ### 5. Settings
 ![image](https://user-images.githubusercontent.com/82303989/171528802-6e06209f-31cb-4e04-8ebf-85736e5c1501.png)
 
-## See more details and whole process in the demo video  
-```xml
-you can see the QR scanning and enterprise version in the link.
-```
+
 # License
 ```xml
 Copyright 2022 Owen-Choi, IMDongH, lib26, twoone17, ShinJunYoung
